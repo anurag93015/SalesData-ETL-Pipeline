@@ -26,8 +26,41 @@ This project simulates a real-world Data Engineering and Business Intelligence w
 - Data Cleaning using Pandas
 - PostgreSQL Database Integration
 - SQL-based Business Analysis
+  
+---
+
+# 🛠 Technologies Used
+
+| Technology | Purpose |
+|------------|---------|
+| Python | ETL Pipeline |
+| Pandas | Data Cleaning & Transformation |
+| PostgreSQL | Database |
+| SQL | Business Analysis |
+| Power BI | Dashboard |
+| Jupyter Notebook | Development |
+| Git | Version Control |
+| GitHub | Project Hosting |
 - Interactive Power BI Dashboard
 - KPI Generation
 - Sales Trend Analysis
 - Customer & Product Analysis
 - Regional Performance Analysis
+
+---
+
+# 🔄 ETL Workflow
+
+CSV Dataset
+⬇
+Python (Pandas)
+⬇
+Data Cleaning & Transformation
+⬇
+PostgreSQL Database
+⬇
+SQL Business Queries
+⬇
+Power BI Dashboard
+⬇
+Business Insights
