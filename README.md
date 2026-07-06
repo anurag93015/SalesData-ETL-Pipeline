@@ -1,4 +1,10 @@
 # 📊 Sales Data ETL Pipeline
+![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18-blue?logo=postgresql)
+![PowerBI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Cleaning-blue?logo=pandas)
+![SQL](https://img.shields.io/badge/SQL-Analysis-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 An End-to-End ETL (Extract, Transform, Load) Pipeline built using **Python**, **PostgreSQL**, **SQL**, and **Power BI** to automate data cleaning, transformation, database loading, and interactive business reporting.
 
