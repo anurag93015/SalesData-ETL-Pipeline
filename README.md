@@ -173,3 +173,21 @@ Load the cleaned data into PostgreSQL and open the Power BI dashboard to explore
 ✔ Built an interactive Power BI dashboard
 
 ✔ Generated KPIs and business insights
+
+---
+
+# 📈 Business Questions Answered
+
+• Which category generates the highest sales?
+
+• Which region is the most profitable?
+
+• What are monthly sales trends?
+
+• Which customers generate maximum revenue?
+
+• Which shipping mode is most frequently used?
+
+• What is the profit margin by category?
+
+• Which segment contributes the highest sales?
