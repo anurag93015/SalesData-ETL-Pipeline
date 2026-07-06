@@ -57,6 +57,8 @@ This project simulates a real-world Data Engineering and Business Intelligence w
 
 # 🔄 ETL Workflow
 
+![Workflow](images/workflow.png)
+
 CSV Dataset
 ⬇
 Python (Pandas)
