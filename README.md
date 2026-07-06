@@ -156,11 +156,18 @@ Load the cleaned data into PostgreSQL and open the Power BI dashboard to explore
 
 ---
 
-# 📌 Future Improvements
+# ⭐ Project Highlights
 
-- Automate scheduled ETL jobs
-- Add Apache Airflow support
-- Integrate cloud databases
-- Build Streamlit Web App
-- Add Docker support
-- Deploy on Azure/AWS
+✔ Built an end-to-end ETL pipeline
+
+✔ Processed 9,994+ sales records
+
+✔ Automated data cleaning using Pandas
+
+✔ Loaded cleaned data into PostgreSQL
+
+✔ Performed SQL business analysis
+
+✔ Built an interactive Power BI dashboard
+
+✔ Generated KPIs and business insights
